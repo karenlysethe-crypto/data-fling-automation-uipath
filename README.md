@@ -1,3 +1,4 @@
+<img width="1152" height="648" alt="Diseño sin título" src="https://github.com/user-attachments/assets/19c3cc6a-6596-46f5-b569-9b3d6f9ea482" />
  # RPA: Automatización de Registro de Datos Multiplataforma (Excel a Web)
 
 ## Descripción del Proyecto
